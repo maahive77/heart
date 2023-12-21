@@ -23,8 +23,7 @@
   }
 
 ```
-https://www.instagram.com/__maahi__ve/#
-  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@_maahi_ve&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/_maahi_ve?igshid=NGVhN2U2NjQ0Yg==) 
+  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@_maahi_ve&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/__maahi__ve/#) 
 
 ***Glad to see you here! Show some love by [starring]( https://maahive77.github.io/heart/) this repo.***
 
