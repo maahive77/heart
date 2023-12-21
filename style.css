@@ -4,7 +4,9 @@ body {
     overflow: hidden;
     background-repeat: no-repeat;
 }
-
+audio{
+    display:none;
+}
 .music {
     position: absolute;
     bottom: 20px;
